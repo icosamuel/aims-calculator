@@ -14,7 +14,7 @@ Ouvrir `index.html`, ou consulter le site GitHub Pages. Aucun serveur applicatif
 
 ## Limites du prototype
 
-Les percentiles se saisissent manuellement depuis la grille de référence. Les descriptions en anglais et les illustrations sont extraites du feuillet fourni ; certains passages sont tronqués ou pâles dans le scan. Vérifier les critères dans le manuel avant toute utilisation clinique.
+Une plage de percentiles est calculée par tranche d’âge mensuelle à partir des colonnes canadiennes du tableau 3 de l’étude https://doi.org/10.1186/s12887-023-04055-5. Les seuils sont consignés dans `percentiles-source.json`. Il ne s’agit pas de la lecture hebdomadaire interpolée de la grille du manuel. Une lecture manuelle séparée reste disponible. Les descriptions en anglais et les illustrations sont extraites du feuillet fourni ; certains passages sont tronqués ou pâles dans le scan. Vérifier les critères dans le manuel avant toute utilisation clinique.
 
 Les contenus AIMS appartiennent à leurs ayants droit respectifs. Ce dépôt ne leur attribue aucune licence de réutilisation.
 
