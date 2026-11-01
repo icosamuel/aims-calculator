@@ -21,3 +21,7 @@ Les contenus AIMS appartiennent à leurs ayants droit respectifs. Ce dépôt ne 
 ## Publication
 
 GitHub Pages sert la racine de la branche `main`. Les modifications poussées sur cette branche sont publiées automatiquement.
+
+## Source des illustrations
+
+Les 58 illustrations proviennent des pages 44 à 47 du PDF conservé par l’Université de Brasília : https://bdm.unb.br/bitstream/10483/13862/6/2015_MilenaFelipeFelix.pdf. Elles remplacent les découpes de la première numérisation.
